@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestQuiz_NewActivity</string>
+
+    <string name="q1">Goose The Cat Is Why Nick Fury Wears An Eye Patch</string>
+    <string name="q2">Thor Has A Sister Named Hela</string>
+    <string name="q3">The Acronym S.H.I.E.L.D. Stands For Strategic Homicide Intervention, Entitlement And Logistics Division.</string>
+    <string name="q4">Doctor Strange Protected The Reality Stone</string>
+    <string name="q5">Tony Stark Married Pepper Potts</string>
+    <string name="q6">There are 2 infinity gauntlets</string>
+
+    <string name="true_text">TRUE</string>
+    <string name="false_text">FALSE</string>
+    <string name="next_button">Next</string>
+    <string name="right_answer">Right!</string>
+    <string name="wrong_answer">Wrong!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
